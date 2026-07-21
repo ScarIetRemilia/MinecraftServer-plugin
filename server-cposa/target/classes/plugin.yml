@@ -1,0 +1,22 @@
+name: server-cposa
+version: '1.0'
+
+main: org.cposa.serverCposa.ServerCposa
+api-version: '1.20'
+load: POSTWORLD
+
+commands:
+  hello:
+    description: Hello
+    usage: /hello
+  servercposa:
+    description: 插件管理指令
+    usage: /servercposa <reload>
+  opcommand:
+    description: 管理员指令
+    usage: /opcommand <Kill>
+    permission: servercposa.sc
+    permission-message: §c你没有权限使用 /opcommand
+  sc:
+    description: ServerCposa 管理指令
+    usage: /sc <help|reload>

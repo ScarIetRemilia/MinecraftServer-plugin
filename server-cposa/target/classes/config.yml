@@ -1,0 +1,8 @@
+#这个插件的作者是 MisonoMika
+#no-permission的作用: 假如你不是OP你将无法使用指令
+#-剩下的自己看
+#-awa Powered by MisonoMika
+no-permission: "§c你没有权限使用这个指令！"
+only-player: "§c只有管理员玩家才能使用，控制台无法使用"
+hello-message: "§a你好，管理员！这是 server-cposa 插件。"
+console-denied-log: "[core] 控制台尝试执行 /hello，已拒绝"
