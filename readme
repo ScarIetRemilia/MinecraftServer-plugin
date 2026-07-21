@@ -1,0 +1,25 @@
+This is a Minecraft plugin example intended for beginners.
+You are welcome to use, study, and modify the source code.
+However, please refrain from using it for commercial purposes.
+
+## 🚧 About v1.0.0
+
+ServerCposa v1.0.0 is the first stable open-source release.
+Its primary focus is on:
+
+- Establishing core security principles
+- Providing a maintainable foundation
+- Ensuring predictable behavior and zero server harm
+
+The following features are **fully designed but not yet implemented**,
+and will be introduced in v1.1.0 and future releases:
+
+- Injection detection and safe-shutdown mechanisms
+- Configuration encryption and self-cleanup
+- Configurable anti-grief module
+- Finer-grained audit logging
+
+This project follows an incremental development approach:
+
+---
+Made with by MisonoMika
